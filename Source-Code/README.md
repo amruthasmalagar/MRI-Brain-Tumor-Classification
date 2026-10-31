@@ -57,5 +57,27 @@ MRI_Datasets/
 ### Weighted Pruning – Accuracy and Loss
 ![Weighted Pruning Accuracy and Loss](weighted-pruning-accuracy-loss.png)
 
+## How to Run
+
+### 1. Install Dependencies
+
+Make sure Python is installed, then run:
+
+pip install -r requirements.txt
+
+### 2. Prepare the Dataset
+
+Organize the MRI dataset into the `Train` and `Val` folders as shown in the Dataset Structure section above.
+
+### 3. Configure the Dataset Path
+
+Open `weighted_pruning_densenet121.py` and set the dataset path to the location of your `MRI_Datasets` folder.
+
+### 4. Run the Implementation
+
+Run the following command from the `Source-Code` folder:
+
+python weighted_pruning_densenet121.py
+
 ## Project Report
 Refer to the project report in the main repository for detailed methodology, experimental comparisons, graphs, and conclusions.
