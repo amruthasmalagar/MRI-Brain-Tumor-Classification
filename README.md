@@ -33,6 +33,12 @@ Python | PyTorch | Torchvision | NumPy | Matplotlib | Scikit-learn | Jupyter Not
 - `Source-Code/` – Python implementation and experiment visualizations.
 - `MRI-Brain-Tumor-Classification-Project-Report.pdf` – Detailed project report, methodology, results, and graphs.
 
+## System Architecture
+
+The following diagram illustrates the overall workflow of the proposed brain tumor classification system.
+
+![System Architecture](mri-project-system-architecture.png)
+
 ## Project Documentation
 
 Refer to the project report for detailed explanations of the models, optimization techniques, experimental results, and conclusions.
