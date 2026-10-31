@@ -49,5 +49,13 @@ MRI_Datasets/
 ## Source File
 - `weighted_pruning_densenet121.py` – Implements DenseNet-121 with weighted L1 pruning.
 
+## Experiment Results
+
+### Weighted Pruning – Confusion Matrix
+![Weighted Pruning Confusion Matrix](weighted-pruning-confusion-matrix.png)
+
+### Weighted Pruning – Accuracy and Loss
+![Weighted Pruning Accuracy and Loss](weighted-pruning-accuracy-loss.png)
+
 ## Project Report
 Refer to the project report in the main repository for detailed methodology, experimental comparisons, graphs, and conclusions.
