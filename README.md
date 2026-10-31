@@ -6,6 +6,15 @@ A deep learning project focused on classifying brain MRI images into four catego
 
 This project explores different CNN architectures and optimization techniques for brain tumor classification.
 
+## Key Features
+
+- Classification of brain MRI images into four categories.
+- Evaluation of multiple CNN architectures.
+- DenseNet-121 selected for optimization experiments.
+- Exploration of different model optimization techniques.
+- Performance evaluation using accuracy, loss, confusion matrix, and classification metrics.
+- Visual comparison of experimental results.
+
 **Classification Categories:**
 - Glioma
 - Meningioma
